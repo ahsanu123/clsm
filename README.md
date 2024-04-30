@@ -1,7 +1,7 @@
 
 ## Introduction 
 
-🛵 personal project about close loop stepper motor 
+:motor_scooter: personal project about close loop stepper motor 
 
 ## Initial Spesification
 
@@ -32,8 +32,8 @@ TODO: Calculate initial component cost estimation
 - :computer: Pegasus [Github Page](https://github.com/pachterlab/pegasus)
 - :computer: Nano Stepper [Github Page](https://github.com/Misfittech/nano_stepper)
 
-- [Reflowduino](https://github.com/botletics/Reflowduino)
-- [OSPID](https://github.com/osPID/osPID-Firmware)
+- :hammer: [Reflowduino](https://github.com/botletics/Reflowduino)
+- :computer: [OSPID](https://github.com/osPID/osPID-Firmware)
 
 :hammer: --> hardware  
 :computer: --> software
