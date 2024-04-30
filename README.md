@@ -10,7 +10,7 @@
 - I2C Analog Multiplexer -> TCA9548A
 - I2C Digital Input/Output -> MCP23017
 - I2C DAC -> MCP4735
-- Stepper Motor Driver -> DRV8844
+- Stepper Motor Driver -> DRV8844 or TMC2208 (used in ender)??
 - HAL Sensor -> TLE5012B
 - Temperature Sensor -> PT100 use preamp, Thermocouple MAX6675
 - Simple Display -> ST7735
