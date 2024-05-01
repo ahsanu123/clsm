@@ -385,6 +385,18 @@
     [
       "508e0e3b-a744-4e88-93ea-e872e80e580c",
       "Root"
+    ],
+    [
+      "4034df49-f807-4e79-9c21-e2af1ce39ba0",
+      "Temp_Input_Unit"
+    ],
+    [
+      "ad8d6fd6-7822-40e0-bdf4-db8380dcdb06",
+      "IO_Unit"
+    ],
+    [
+      "05a8634a-0690-42f6-ae5c-b11bdb587ff8",
+      "Comunication_Unit"
     ]
   ],
   "text_variables": {}
