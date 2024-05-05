@@ -370,6 +370,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
@@ -397,6 +405,10 @@
     [
       "05a8634a-0690-42f6-ae5c-b11bdb587ff8",
       "Comunication_Unit"
+    ],
+    [
+      "b0036ee3-51b3-400c-94ef-a88d356511c6",
+      "Simulation"
     ]
   ],
   "text_variables": {}
