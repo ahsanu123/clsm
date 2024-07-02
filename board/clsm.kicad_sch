@@ -8969,7 +8969,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_ARM_SWD_TagConnect_TC2030-NL")
-		(at 1.27 166.37 0)
+		(at 74.93 113.03 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -8978,7 +8978,7 @@
 		(fields_autoplaced yes)
 		(uuid "eff21bff-1bd4-459e-9a72-2c92a079cdd9")
 		(property "Reference" "J1"
-			(at -5.08 165.0999 0)
+			(at 68.58 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8987,7 +8987,7 @@
 			)
 		)
 		(property "Value" "Conn_ARM_SWD_TagConnect_TC2030-NL"
-			(at -5.08 167.6399 0)
+			(at 68.58 114.2999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8996,7 +8996,7 @@
 			)
 		)
 		(property "Footprint" "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical"
-			(at 1.27 184.15 0)
+			(at 74.93 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9005,7 +9005,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2030-CTX_1.pdf"
-			(at 1.27 181.61 0)
+			(at 74.93 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9014,7 +9014,7 @@
 			)
 		)
 		(property "Description" "Tag-Connect ARM Cortex SWD JTAG connector, 6 pin, no legs"
-			(at 1.27 166.37 0)
+			(at 74.93 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
