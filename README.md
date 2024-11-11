@@ -1,11 +1,18 @@
-<h1 align="center">🚡 CLSM </h1> 
+<h1 align="center"> CLSM </h1> 
+
 <p align="center">
-Close Loop Stepper Motor
+   <img src="./documentation/CLSM_LOGO.png" alt="SoreIcon">
 </p>  
+
+<p align="center">
+🚡 Close Loop Stepper Motor
+</p> 
 
 ## 🎐 Introduction
 
 CLSM is personal project intended to create NEMA 17 stepper motor controller with **TMC2209**, built in with HAL sensor for feedback control, Buck Converter, optional Small display, CAN, and Modbus For External hardware Communication, its controlled with STM32F1 microcontroller.
+
+## 🍀 Log
 
 ## 🐌 Reference 
 
