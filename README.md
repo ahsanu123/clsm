@@ -1,32 +1,17 @@
+<h1 align="center">🚡 CLSM </h1> 
+<p align="center">
+Close Loop Stepper Motor
+</p>  
 
-## Introduction 
+## 🎐 Introduction
 
-:motor_scooter: personal project about close loop stepper motor 
+CLSM is personal project intended to create NEMA 17 stepper motor controller with **TMC2209**, built in with HAL sensor for feedback control, Buck Converter, optional Small display, CAN, and Modbus For External hardware Communication, its controlled with STM32F1 microcontroller.
 
-## Initial Spesification
+## 🐌 Reference 
 
-- RS485 -> MAX485
-- CAN Driver -> SN65HVD230D
-- I2C Analog Multiplexer -> TCA9548A
-- I2C Digital Input/Output -> MCP23017
-- I2C DAC -> MCP4735
-- Stepper Motor Driver -> DRV8844 or TMC2208 (used in ender)??
-- HAL Sensor -> TLE5012B
-- Temperature Sensor -> PT100 use preamp, Thermocouple MAX6675
-- Simple Display -> ST7735
-- SWD JTAG Connector
-- Built in Input Switch 
-- Led Indicator 
-- SSR Omron Zero Crossing 
-- uSDcard
-- USB (H5VU25U)
-- CMOS Battery 
-- Chrystal 
-
-TODO: Calculate initial component cost estimation
-
-## Reference 
-
+<details>
+  <summary>Expand to see</summary>
+  
 - :hammer:  Creapunk CLN17 [Github Page](https://github.com/creapunk/CLN-ClosedLoopNemaDriver/tree/main/hardware/CLN17/V2.0)
 - :hammer: Tarocco [Github Page](https://github.com/ottoragam/Tarocco)
 - :computer: Pegasus [Github Page](https://github.com/pachterlab/pegasus)
@@ -37,3 +22,6 @@ TODO: Calculate initial component cost estimation
 
 :hammer: --> hardware  
 :computer: --> software
+
+</details>
+
