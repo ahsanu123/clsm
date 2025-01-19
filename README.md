@@ -32,3 +32,6 @@ CLSM is personal project intended to create NEMA 17 stepper motor controller wit
 
 </details>
 
+
+<sub>a long project with the hope of completion. created with ♥️ by ah...</sub>
+
